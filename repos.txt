@@ -1,0 +1,2 @@
+freemankevin/CMWTAT_Digital_Edition
+freemankevin/gitlab-ci-multi-runner
